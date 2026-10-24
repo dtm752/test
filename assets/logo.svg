@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 100" role="img" aria-labelledby="title desc">
+<title id="title">АйДа Белорецк!</title><desc id="desc">Лаконичный знак гор Южного Урала и название АйДа Белорецк</desc>
+<g fill="none" stroke="#173f35" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M8 72 33 39 47 55 68 22 98 72"/>
+<path d="M21 72 39 58 50 68 68 48 88 72" stroke-width="3"/>
+<path d="M8 83H98" stroke-width="3"/>
+</g>
+<text x="120" y="51" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800" letter-spacing="-1.1" fill="#173f35">АйДа Белорецк!</text>
+<text x="122" y="76" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.6" fill="#62756b">ГОРЫ · ЛЮДИ · ВПЕЧАТЛЕНИЯ</text>
+</svg>
